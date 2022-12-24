@@ -1,19 +1,14 @@
-### Hi there 👋 - I'm MML
+## Hi there 👋 - I'm MML.
 
+I code 🧑‍💻, make YouTube videos 🎥, and I'm pretty intelligent 🧠
 
-
-<!--
-**MML4379/MML4379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### About me
+- 🔭 I'm currently working on my OS, MML ComputiOS
+- 🌱 I'm currently learning advanced C++
+- 👯 I'm looking to collaborate with individuals working on big projects
+- 🤔 I'm looking for help with my OS, MML ComputiOS
+- 💬 You can ask me about some C++ things, computer tips/tricks, HTML/CSS/JS things, my opinions and likings, ect.
+- 📫 Talk to me at michaelpeace937@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm the coolest programmer you'll ever meet
+- 🎮 Hobbies: Web development (HTML/CSS/JS), Windows Development (C++), OS development (x86 Assembly and C++), video games, music, YouTube
