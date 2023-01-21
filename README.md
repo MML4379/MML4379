@@ -1,6 +1,6 @@
 ## Hi there 👋 - I'm MML.
 
-I code 🧑‍💻, make YouTube videos 🎥, and I'm pretty intelligent 🧠
+I code 🧑‍💻, make YouTube videos 🎥, and yes, I have a life.
 
 ### About me
 - 🔭 I'm currently working on my OS, MML ComputiOS
