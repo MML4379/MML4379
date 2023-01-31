@@ -19,5 +19,4 @@ I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool
 - 🎮 Hobbies: Web development (HTML/CSS/JS), Windows Development (C++), OS development (x86 Assembly and C++), video games, music, YouTube
 - 😉 My website: https://mmltech.net
 
-                      /\
-## Have a good day 😀 |
+## Have a good day 😀
