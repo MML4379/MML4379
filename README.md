@@ -14,7 +14,7 @@ I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool
 - 🤔 I'm looking for help with MML+ (Email me for more info)
 - 💬 You can ask me about some C++ things, computer tips/tricks, HTML/CSS/JS things, my opinions and likings, ect.
 - 📫 Talk to me at michaelpeace937@gmail.com
-- 😄 Pronouns: He/him (Straight)
+- 😄 Pronouns: He/they
 - ⚡ Fun fact: I'm the coolest programmer you'll ever meet
 - 🎮 Hobbies: Web development (HTML/CSS/JS), Windows Development (C++), OS development (x86 Assembly and C++), video games, music, YouTube
 - 😉 My website: https://mmltech.net
