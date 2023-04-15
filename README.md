@@ -4,7 +4,7 @@ I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool
 
 ### Links
 - @mml on MML+: https://plus.mmltech.net/@mml
-- @thatyoutubermml on YouTube: https://youtube.com/@thatyoutubermml
+- @notmml on YouTube: https://youtube.com/@notmml
 - Featured profiles: https://plus.mmltech.net/@mml/featured-profiles?ref=direct
 
 ### About me
@@ -16,7 +16,7 @@ I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool
 - 📫 Talk to me at michaelpeace937@gmail.com
 - 😄 Pronouns: He/they
 - ⚡ Fun fact: I'm the coolest programmer you'll ever meet
-- 🎮 Hobbies: Web development (HTML/CSS/JS), Windows Development (C++), OS development (x86 Assembly and C++), video games, music, YouTube
+- 🎮 Hobbies: Web development (HTML/CSS/JS/Python), Windows Development (C++), OS development (x86 Assembly and C++), video games, music, YouTube
 - 😉 My website: https://mmltech.net
 
 ## Have a good day 😀
