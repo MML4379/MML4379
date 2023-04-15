@@ -8,8 +8,8 @@ I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool
 - Featured profiles: https://plus.mmltech.net/@mml/featured-profiles?ref=direct
 
 ### About me
-- 🔭 I'm currently working on my OS, MML ComputiOS
-- 🌱 I'm currently learning advanced C++ **AND** JavaScript
+- 🔭 I'm currently working on ComputiOS and MML Games
+- 🌱 I'm currently learning advanced C++, Advanced Javascript, and Python
 - 👯 I'm looking to collaborate with individuals working on big projects
 - 🤔 I'm looking for help with MML+ (Email me for more info)
 - 💬 You can ask me about some C++ things, computer tips/tricks, HTML/CSS/JS things, my opinions and likings, ect.
