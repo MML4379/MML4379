@@ -1,6 +1,6 @@
 ## Hi there 👋 - I'm MML.
 
-I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool
+I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool 😎
 
 ### Links
 - @mml on MML+: https://plus.mmltech.net/@mml
