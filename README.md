@@ -10,8 +10,8 @@ I code 🧑‍💻, make YouTube videos 🎥, and I'm totally cool 😎
 ### About me
 - 🔭 I'm currently working on ComputiOS and MML Games
 - 🌱 I'm currently learning advanced C++, Advanced Javascript, and Python
-- 👯 I'm looking to collaborate with individuals working on big projects
-- 🤔 I'm looking for help with MML+ (Email me for more info)
+- 👯 Don't really wanna collaborate with anyone rn, just wanna work on my own stuff :)
+- 🤔 Not really looking for help with anything
 - 💬 You can ask me about some C++ things, computer tips/tricks, HTML/CSS/JS things, my opinions and likings, ect.
 - 📫 Talk to me at michaelpeace937@gmail.com
 - 😄 Pronouns: He/they
