@@ -1,4 +1,4 @@
-## Hi there 👋 - I'm Michael, aka MML.
+## Hi there 👋 - I'm Michael
 
 ### About me
 - 🔭 I'm currently working on ComputiOS
