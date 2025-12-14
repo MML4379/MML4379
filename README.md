@@ -5,7 +5,9 @@ I'm Michael, and this is where I put my code for the world to see.
 - ComputiOS, an operating system I work on in my free time
 
 ## My Skills
-- Full-stack web development
+- Full-stack web development (HTML/CSS/JavaScript/TypeScript)
 - x86 Assembly (Intel Syntax)
-- C For OS Development
-- C++ For OS Development
+- C
+- C++
+- Java
+- Python
