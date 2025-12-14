@@ -1,7 +1,11 @@
-## Hi there 👋 - I'm Michael
+# Welcome!
+I'm Michael, and this is where I put my code for the world to see.
 
-### About me
-- 🔭 I'm currently working on ComputiOS
-- 🌱 I'm currently learning OS development
+## My Projects
+- ComputiOS, an operating system I work on in my free time
 
-## Have a good day 😀
+## My Skills
+- Full-stack web development
+- x86 Assembly (Intel Syntax)
+- C For OS Development
+- C++ For OS Development
